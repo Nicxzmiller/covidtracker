@@ -16,6 +16,12 @@ body{
   padding: 20px;
 }
 
+.app__dropdown{
+  background-color: white;
+
+  outline: none;
+}
+
 .app__header{
   display: flex;
   align-items: center;
